@@ -1,0 +1,683 @@
+Agency: 
+Langston University Police Department - Langston, Oklahoma
+Station Name:
+United States
+Address:
+P.O. Box 670
+City:
+Langston
+State:
+Oklahoma
+Zip Code:
+73050
+Phone #:
+(405) 466-3366
+
+
+Type:
+Police Departments
+Number of Officers:
+23
+
+Agency: 
+Lodi Police Department - Lodi, New Jersey
+Station Name:
+United States
+Address:
+1 Memorial Drive
+City:
+Lodi
+State:
+New Jersey
+Zip Code:
+07644
+Phone #:
+(973) 473-7600
+
+
+Type:
+Police Departments
+
+Agency: 
+Texas Response Group - Dallas, Texas
+Station Name:
+United States
+Address:
+PO Box 803422	
+City:
+Dallas
+State:
+Texas
+Zip Code:
+75380
+County:
+Dallas
+Phone #:
+972-325-6247
+
+
+Type:
+Police Departments
+Number of Officers:
+0-10
+
+Agency: 
+Tyngsborough Police Department  - Tyngsborough, Massachusetts
+Station Name:
+United States
+Address:
+20 Westford Rd
+City:
+Tyngsborough
+State:
+Massachusetts
+Zip Code:
+01879-2701
+Phone #:
+9786497504
+Website:
+
+http://www.tyngsboropolice.com/
+
+
+
+Type:
+Police Departments
+Number of Officers:
+30
+
+Agency: 
+Homecroft Police Department (IN) - Indianapolis, Indiana
+Station Name:
+United States
+Address:
+4925 Shelby Street
+Address 2:
+Suite 500
+City:
+Indianapolis
+State:
+Indiana
+Zip Code:
+46227-4152
+County:
+Marion County
+Phone #:
+317-783-4400
+Fax #:
+317-787-8899
+Website:
+
+http://www.homecroftpolice.com/
+
+
+
+Type:
+Police Departments
+Population Served:
+1500
+Number of Officers:
+14
+
+Agency: 
+Holyoke Police Department - Holyoke, Colorado
+Station Name:
+United States
+Address:
+407 E. Denver St.
+City:
+Holyoke
+State:
+Colorado
+Zip Code:
+80734-1606
+County:
+Phillips County
+Phone #:
+970-854-2342
+Fax #:
+970-854-2185
+Website:
+
+HolyokePD.us
+
+
+
+Type:
+Police Departments
+Population Served:
+2500
+Number of Officers:
+4
+
+Agency: 
+Bethel Police Department - Bethel, Ohio
+Station Name:
+United States
+Address:
+120 North Main Street
+City:
+Bethel
+State:
+Ohio
+Zip Code:
+45106-1014
+County:
+Clermont County
+Phone #:
+513-734-2256
+Fax #:
+513-734-3889
+Website:
+
+www.Bethel-OH.gov
+
+
+
+Type:
+Police Departments
+Population Served:
+3000
+Number of Officers:
+15
+
+Agency: 
+New York City Police Department - New York City, New York
+Station Name:
+United States
+Address:
+One Police Plz 14th Fl Rm 1400
+City:
+New York City
+State:
+New York
+County:
+New York County
+Phone #:
+646-610-5410
+Fax #:
+646-610-5865
+
+
+Type:
+Police Departments
+Population Served:
+8000000
+Number of Officers:
+40000
+
+Agency: 
+Chicago Police Department - Chicago, Illinois
+Station Name:
+United States
+Address:
+3510 S Michigan Ave
+City:
+Chicago
+State:
+Illinois
+Zip Code:
+60653-1020
+County:
+Cook County
+Phone #:
+312-745-6100
+Fax #:
+312-745-6963
+
+
+Type:
+Police Departments
+Population Served:
+2994100
+Number of Officers:
+13400
+
+Agency: 
+Los Angeles Police Department - Los Angeles, California
+Station Name:
+United States
+Address:
+150 N Los Angeles St
+City:
+Los Angeles
+State:
+California
+Zip Code:
+90012-3302
+County:
+Los Angeles County
+Phone #:
+213-485-3202
+Fax #:
+213-847-0676
+Website:
+
+https://www.ratedrproduction.com
+
+
+
+Type:
+Police Departments
+Population Served:
+3501487
+Number of Officers:
+9324
+
+Agency: 
+Houston Police Department - Houston, Texas
+Station Name:
+United States
+Address:
+1200 Travis 16th Fl
+City:
+Houston
+State:
+Texas
+Zip Code:
+77002-6001
+County:
+Harris County
+Phone #:
+713-308-1600
+Fax #:
+713-308-1601
+
+
+Type:
+Police Departments
+Population Served:
+1734335
+Number of Officers:
+4905
+
+Agency: 
+Phoenix Police Department (AZ) - Phoenix, Arizona
+Station Name:
+United States
+Address:
+620 W Washington St
+City:
+Phoenix
+State:
+Arizona
+Zip Code:
+85003-2186
+County:
+Maricopa County
+Phone #:
+602-262-7626
+Fax #:
+602-495-0356
+
+
+Type:
+Police Departments
+Population Served:
+1300000
+Number of Officers:
+2800
+
+Agency: 
+San Francisco Police Department - San Francisco, California
+Station Name:
+United States
+Address:
+850 Bryant St Ste 525
+City:
+San Francisco
+State:
+California
+Zip Code:
+94103-4603
+County:
+San Francisco County
+Phone #:
+415-553-1551
+Fax #:
+415-553-1554
+
+
+Type:
+Police Departments
+Population Served:
+753930
+Number of Officers:
+2328
+
+Agency: 
+Memphis Police Department - Memphis, Tennessee
+Station Name:
+United States
+Address:
+201 Poplar Ave Ste 12-05
+City:
+Memphis
+State:
+Tennessee
+Zip Code:
+38103-1945
+County:
+Shelby County
+Phone #:
+901-545-5700
+Fax #:
+901-545-2124
+Website:
+
+http://JoinMPD.com
+
+
+
+Type:
+Police Departments
+Population Served:
+650100
+Number of Officers:
+1900
+
+Agency: 
+Seattle Police Department - Seattle, Washington
+Station Name:
+United States
+Address:
+610 5th Ave
+City:
+Seattle
+State:
+Washington
+Zip Code:
+98104-1900
+County:
+King County
+Phone #:
+206-684-5577
+Fax #:
+206-684-5525
+
+
+Type:
+Police Departments
+Population Served:
+534700
+Number of Officers:
+1262
+
+Agency: 
+New Orleans Police Department - New Orleans, Louisiana
+Station Name:
+United States
+Address:
+715 S Broad St Ste 501
+City:
+New Orleans
+State:
+Louisiana
+Zip Code:
+70119-7416
+County:
+Orleans Parish
+Phone #:
+504-826-2727
+Fax #:
+504-827-3598
+
+
+Type:
+Police Departments
+Population Served:
+496938
+Number of Officers:
+1328
+
+Agency: 
+Portland Police Bureau - Portland, Oregon
+Station Name:
+United States
+Address:
+1111 SW 2nd Ave
+City:
+Portland
+State:
+Oregon
+Zip Code:
+97204-3232
+County:
+Multnomah County
+Phone #:
+503-823-0000
+Fax #:
+503-823-0342
+
+
+Type:
+Police Departments
+Population Served:
+509610
+Number of Officers:
+1028
+
+Agency: 
+Miami Police Department - Miami, Florida
+Station Name:
+United States
+Address:
+400 NW 2nd Ave
+City:
+Miami
+State:
+Florida
+Zip Code:
+33128-1786
+County:
+Miami-Dade County
+Phone #:
+305-579-6565
+Fax #:
+305-372-4609
+
+
+Type:
+Police Departments
+Population Served:
+358548
+Number of Officers:
+1022
+
+Agency: 
+Grand Island Police Department - Grand Island, Nebraska
+Station Name:
+United States
+Address:
+111 Public Safety Dr.
+City:
+Grand Island
+State:
+Nebraska
+Zip Code:
+68801-6038
+County:
+Hall County
+Phone #:
+308-385-5400
+Fax #:
+308-385-5398
+Website:
+
+http://www.grand-island.com/index.aspx?page=126
+
+
+
+Type:
+Police Departments
+Population Served:
+50,000
+Number of Officers:
+82
+
+Agency: 
+Hobbs Police - Hobbs, New Mexico
+Station Name:
+United States
+Address:
+300 N Turner St
+City:
+Hobbs
+State:
+New Mexico
+Zip Code:
+88240
+County:
+New Mexico
+Phone #:
+5753979284
+Website:
+
+http://hobbsnm.org
+
+
+
+Type:
+Police Departments
+Population Served:
+50,000
+Number of Officers:
+107
+
+Agency: 
+Missouri State Park Rangers - Jefferson City, Missouri
+Station Name:
+United States
+Address:
+1659 E. Elm Street
+City:
+Jefferson City
+State:
+Missouri
+Zip Code:
+65101
+County:
+Cole
+Phone #:
+573-751-9188
+Website:
+
+https://mostateparks.com/rangers
+
+
+
+Type:
+Police Departments
+Number of Officers:
+46
+
+Agency: 
+Westerville Police Department - Westerville, Ohio
+Station Name:
+United States
+Address:
+29 S. State St
+City:
+Westerville
+State:
+Ohio
+Zip Code:
+43081
+County:
+OH
+Phone #:
+6149016450
+Website:
+
+https://www.westerville.org/
+
+
+
+Type:
+Police Departments
+Population Served:
+40,000
+Number of Officers:
+76
+
+Agency: 
+Trumbull County Sheriffs Department, OH - Warren, Ohio
+Station Name:
+United States
+Address:
+605 Panther Ave.
+City:
+Warren
+State:
+Ohio
+Zip Code:
+44483
+County:
+Trumbull
+Phone #:
+3306752508
+Website:
+
+http://sheriff.co.trumbull.oh.us/
+
+
+
+Type:
+Sheriffs Departments
+
+Agency: 
+Piedmont Company Police Department, NC - Asheboro, North Carolina
+Station Name:
+United States
+Address:
+624-B S. Fayetteville St.
+City:
+Asheboro
+State:
+North Carolina
+Zip Code:
+27203
+County:
+Randolph
+Phone #:
+336-223-4940
+Website:
+
+http://www.piedmontpatrol.com
+
+
+
+Type:
+Police Departments
+
+Agency: 
+Fairfield Police Department - Fairfield, Connecticut
+Country:
+United States
+Address 1:
+100 Reef Rd
+City:
+Fairfield
+State:
+Connecticut
+Zip Code:
+06824
+County:
+Fairfield
+Phone #:
+203-254-4808
+Fax #:
+203-254-4868
+Website:
+
+https://www.fpdct.com/
+
+
+
+Type:
+Police Departments
+Population Served:
+59,000
+Number of Officers:
+108
+
